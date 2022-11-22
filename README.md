@@ -1,1 +1,1 @@
-pritnf readme
+Leshogo and Prime readme
