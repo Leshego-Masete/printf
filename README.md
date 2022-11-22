@@ -1,1 +1,1 @@
-Leshogo and Prime readme
+Leshego and Prime readme
